@@ -1,0 +1,126 @@
+*{
+    margin: 0px;
+    font-family: "Inter";
+}
+
+#topPartPage{
+
+    background-color: #303030;
+}
+
+#titleTopPage{
+
+    color: #FFFFFF;
+    padding-top: 206px;
+    margin-left: 62px;
+    font-size: 60px;
+    font-weight: 600;
+}
+
+#topTextPage{
+
+    color: #FFFFFF;
+    margin-left: 62px;
+    margin-top: 30px;
+    font-size: 20px;
+    padding-bottom: 120px;
+}
+
+#informationalTopPart{
+
+    background-color: #F9F9F9;
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+
+}
+
+.textInformationalTopPage{
+
+    padding-top: 54px;
+    margin-left: 115px;
+    padding-bottom: 70px;
+    font-size: 20px;
+}
+
+#descriptionSession{
+
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+}
+
+#titleDescription{
+
+    padding-top: 300px;
+    margin-left: 77px;
+    font-size: 45px;
+    font-weight: 500;
+}
+
+#textDescription{
+
+    margin-left: 77px;
+    font-size: 27px;
+    font-weight: 300;
+    margin-top: 60px;
+}
+
+
+#imageInterior{
+
+    padding-top: 150px;
+    margin-left: 85px;
+    width: 510px;
+    height: 605px;
+}
+
+#sessionForm{
+
+    text-align: center;
+    background-color: #303030;
+    margin-top: 150px;
+
+}
+
+#titleForm{
+
+    color: #FFFFFF;
+    padding-top: 100px;
+    padding-bottom: 35px;
+    font-size: 35px;
+}
+
+input{
+
+    width: 425px;
+    height: 62px;
+    margin: 25px;
+    border: 0;
+    border-radius: 12px;
+    font-size: 20px;
+    padding-left: 25px;
+    color: #00000075;
+    font-weight: 700;
+}
+
+button{
+
+    width: 250px;
+    height: 70px;
+    margin-top: 50px;
+    margin-bottom: 70px;
+    border: 0;
+    border-radius: 12px;
+    font-size: 25px;
+    font-weight: 600;
+    background-color: #C07212;
+    color: #FFFFFF;
+}
+
+button:hover{
+
+    transform: translateY(-10px);
+    transition-duration: 0.6s;
+    background-color: #de8517;
+}
