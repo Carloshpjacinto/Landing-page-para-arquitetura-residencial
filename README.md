@@ -1,5 +1,5 @@
 # DESAFIO 1 - Resolução
-Primeiro desafio da Profissão Arquiteto de Software da DNC.
+Primeiro desafio da Profissão Arquiteto de Software da Escola DNC.
 
 LINK do site disponibilizado: https://residencialarchitecture.netlify.app/
 
