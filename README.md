@@ -1,5 +1,6 @@
 # DESAFIO 1 - Resolução
-Primeiro desafio da Formação/Especialização Arquiteto de Software da Escola DNC.
+
+Primeiro desafio da pós-graduação/especialização em Arquitetura de Software da Escola DNC.
 
 LINK do site disponibilizado: https://residencialarchitecture.netlify.app/
 
